@@ -1,0 +1,16 @@
+.eachElement {
+    height: 250px;
+    width: 220px;
+    border-radius: 8px;
+    background: #fff;
+    margin: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 0px #e6e9ec;
+  }
+  .each-el-img {
+    height: 180px;
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  

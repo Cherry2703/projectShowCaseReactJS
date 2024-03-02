@@ -1,0 +1,22 @@
+.main-container {
+    background: #fff;
+    height: 100vh;
+  }
+  .data-container {
+    padding: 15px;
+  }
+  .select-container {
+    padding-left: 10px;
+  }
+  .all-data-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
